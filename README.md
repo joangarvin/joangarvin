@@ -10,7 +10,7 @@ Curso 4.º de carrera, en la especialidad de Software, y **busco prácticas de d
 
 ## Proyectos destacados
 
-### [Travseeker](https://github.com/joangarvin/travseeker) · Aplicación web full stack
+### [Travseeker](https://travseeker.com) · Aplicación web full stack
 
 Una plataforma para descubrir destinos turísticos en España y organizar itinerarios de viaje.
 
