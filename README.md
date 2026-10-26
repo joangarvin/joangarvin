@@ -10,7 +10,13 @@ Curso 4.º de carrera, en la especialidad de Software, y **busco prácticas de d
 
 ## Proyectos destacados
 
-### [Travseeker](https://travseeker.com) · Aplicación web full stack
+### [Travseeker](https://github.com/joangarvin/travseeker) · Aplicación web full stack
+
+<p>
+  <a href="https://github.com/joangarvin/travseeker">
+    <img src="https://raw.githubusercontent.com/joangarvin/joangarvin.github.io/main/assets/travseeker-logo.png" alt="Logo de Travseeker" width="112" height="112" />
+  </a>
+</p>
 
 Una plataforma para descubrir destinos turísticos en España y organizar itinerarios de viaje.
 
