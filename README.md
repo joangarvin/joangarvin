@@ -14,7 +14,7 @@ Curso 4.º de carrera, en la especialidad de Software, y **busco prácticas de d
 
 <p>
   <a href="https://github.com/joangarvin/travseeker">
-    <img src="https://raw.githubusercontent.com/joangarvin/joangarvin.github.io/main/assets/travseeker-logo.png" alt="Logo de Travseeker" width="112" height="112" />
+    <img src="https://raw.githubusercontent.com/joangarvin/joangarvin.github.io/main/assets/travseeker-bird.png" alt="Logo de Travseeker: pájaro azul en vuelo" width="112" height="99" />
   </a>
 </p>
 
