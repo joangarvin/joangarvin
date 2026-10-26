@@ -10,10 +10,10 @@ Curso 4.º de carrera, en la especialidad de Software, y **busco prácticas de d
 
 ## Proyectos destacados
 
-### [Travseeker](https://github.com/joangarvin/travseeker) · Aplicación web full stack
+### [Travseeker](https://joangarvin.github.io/travseeker.html) · Aplicación web full stack
 
 <p>
-  <a href="https://github.com/joangarvin/travseeker">
+  <a href="https://joangarvin.github.io/travseeker.html">
     <img src="https://raw.githubusercontent.com/joangarvin/joangarvin.github.io/main/assets/travseeker-bird.png" alt="Logo de Travseeker: pájaro azul en vuelo" width="112" height="99" />
   </a>
 </p>
@@ -26,7 +26,9 @@ Una plataforma para descubrir destinos turísticos en España y organizar itiner
 
 **Tecnologías:** React · TypeScript · Vite · Node.js · Express · Prisma · PostgreSQL
 
-[Ver código y documentación](https://github.com/joangarvin/travseeker#readme)
+[Ver la ficha del proyecto](https://joangarvin.github.io/travseeker.html) · [Visitar la aplicación](https://travseeker.com/)
+
+El código fuente de Travseeker se mantiene privado para proteger la implementación del producto.
 
 ### [Búsqueda por similitud](https://github.com/joangarvin/CBDE-lab01) · Proyecto académico
 
